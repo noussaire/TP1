@@ -30,6 +30,13 @@
       <version>2.1.214</version>
     </dependency>
 
+    <!-- SLF4J API -->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.36</version>
+    </dependency>
+
     <!-- SLF4J Simple (pour les logs) -->
     <dependency>
       <groupId>org.slf4j</groupId>
